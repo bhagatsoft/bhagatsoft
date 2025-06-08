@@ -35,7 +35,7 @@
 </div>  -->
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=650&height=60&lines=Hi%2C+there!%F0%9F%91%8B;This+is+Bhagatsoft+%3C%2F%3E;Your+Vision,+Our+Code" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=650&height=60&lines=Hi%2C+there!%F0%9F%91%8B;We+are+BhagatSoft+%3C%2F%3E;Your+Vision,+Our+Code" alt="Typing SVG" /></a>
 </div>
 
 <img align="right" width="450" alt="" src="https://github.com/bhagatsoft/bhagatsoft/assets/63346676/eeb252e8-7e69-4fac-9975-892de9b2c82a">
